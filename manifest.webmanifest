@@ -1,12 +1,12 @@
 {
-  "name": "Confident Closer – Construction Network",
+  "name": "Confident Closer — Remote PMC · Construction Management · CEG",
   "short_name": "Confident Closer",
-  "description": "Construction services, professional connections and project guidance.",
+  "description": "Remote PMC and CEG construction management system. 100% online, Pan-India.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fa",
-  "theme_color": "#12345a",
+  "background_color": "#fbfaf6",
+  "theme_color": "#102b4c",
   "icons": [
     {"src":"./icons/icon-192.svg","sizes":"192x192","type":"image/svg+xml"},
     {"src":"./icons/icon-512.svg","sizes":"512x512","type":"image/svg+xml"}
